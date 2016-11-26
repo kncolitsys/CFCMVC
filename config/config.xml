@@ -1,0 +1,9 @@
+<newbee_config>
+
+	<!-- newBee configurations -->
+	<config name="defaultEvent" value="default" />
+	
+	<!-- application configurations -->
+	<config name="dsn" value="newbee" />
+	
+</newbee_config>

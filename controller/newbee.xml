@@ -1,0 +1,17 @@
+<newbee_controller>
+	
+	<!-- EVENTS -->
+	<events>
+		<event event="default">
+			<escape plugins="all" />
+			<model path="HelloWorld.cfc" method="HelloWorld" returnvariable="hw" />
+			<view path="mainpage.cfm" />
+		</event>
+	</events>
+
+	<!-- PLUGINS -->
+	<plugins>
+		<!-- plugins go here -->
+	</plugins>
+
+</newbee_controller>
